@@ -1,6 +1,6 @@
 from turtle import *
-bgcolor("black")
-color("white")
+bgcolor("pink")
+color("red")
 begin_fill()
 pensize(3)
 left(50)
